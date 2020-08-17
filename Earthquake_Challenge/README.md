@@ -7,4 +7,4 @@ For this challenge we created a map that plots all of the earthquakes in the las
 
 The solution employs the following: Leaflet & Mapbox, HTML/CSS/JavaScript, D3, and GeoJSON source files
 
-The Challenge code resides on this path - https://github.com/damiencorr/Mapping_Earthquakes/tree/master/Earthquake_Challenge
+The Challenge code resides here (https://github.com/damiencorr/Mapping_Earthquakes/tree/master/Earthquake_Challenge)
